@@ -1,4 +1,4 @@
-# Hi, I'm Nawfel! 👋
+# Hi, I'm Nawfel ! 👋
 
 Driven by a strong passion for software development, I am currently a student at **Holberton School**, seeking new technological challenges. Curious and disciplined, I enjoy understanding how things work under the hood—from shell scripts to API architecture.
 
